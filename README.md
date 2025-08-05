@@ -22,6 +22,8 @@ javax.xml (biblioteca para manipulação de XML)
 
 org.w3c.dom (biblioteca para manipulação de DOM)
 
+Java Swing (javax.swing) — para construção de interface gráfica
+
 VS Code como ambiente de desenvolvimento
 
 ## 🚀 Como usar
@@ -32,7 +34,7 @@ git clone https://github.com/kPetrus7/separadorXml.git
 
 ### 2 Mande para sua área de trabalho
 
-Localize o arquivo /separadorXml/bin/separador.bat e crie um atalho para sua área de trabalho.
+Localize o executável App.jar, e crie um atalho na sua Area de Trabalho
 
 ### 3 Salve as notas no formato XML
 
@@ -45,16 +47,11 @@ Para iniciar o programa, basta clicar duas vezes do atalho que você criou na su
 
 ### 5 Uso do programa
 
-O programa vai pedir o diretório onde ele deve procurar as notas, basta copiar o caminho até a pasta com os XMLs, colar no terminal e apertar Enter. Feito isso, o programa vai pedir se você deseja renomear os arquivos, fica a critério do usuário e basta digitar "S" no terminal caso deseje e apertar Enter.
+O programa vai pedir o diretório onde ele deve procurar as notas, basta copiar o caminho até a pasta com os XMLs, colar no campo e apertar Enter ou usar o explorador de arquivos do programa. Feito isso, você seleciona o tipo das notas entre entrada ou saida e marca se deseja renomear as arquivos com as informações das notas, fica a critério do usuário, depois basta clicar em Start.
 
 ### 6 Execução do programa
 
-Durante a execução do programa, não faça alterações no diretório das notas nem tente enviar comandos pelo terminal, assim que terminar a execução você será avisado e poderá iniciar outra execução, caso deseje.
-
-## 💡 Próximas melhorias
-
-Interface gráfica (GUI)
-
+Durante a execução do programa, não faça alterações no diretório das notas, assim que terminar a execução você será avisado e poderá iniciar outra execução, caso deseje.
 
 ## 🙋‍♀️ Feito para ajudar
 Este projeto foi desenvolvido especialmente para resolver o problema real de uma colega. Se ele também te ajudou, ⭐ dê uma estrela no repositório ou contribua com ideias!
