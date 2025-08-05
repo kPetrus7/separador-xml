@@ -41,7 +41,7 @@ Localize o executável App.jar, e crie um atalho na sua Area de Trabalho
 É importante que todas as notas estejam no mesmo diretório,
 sem subpastas, da exata maneira como são baixadas dos programas da Receita Federal. Importante que os lotes das notas sejam salvos por mês (não misture mais de um mês por execução).
 
-### 4 Inicie o programas
+### 4 Inicie o programa
 
 Para iniciar o programa, basta clicar duas vezes do atalho que você criou na sua área de trabalho.
 
