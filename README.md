@@ -30,7 +30,7 @@ VS Code como ambiente de desenvolvimento
 
 ### 1 Clone o repositório
 
-git clone https://github.com/kPetrus7/separadorXml.git
+git clone https://github.com/kPetrus7/separador-xml.git
 
 ### 2 Mande para sua área de trabalho
 
